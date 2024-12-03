@@ -12,7 +12,7 @@
 # Documentation:
 # @raycast.description "Prompt to log what you're working on and append to a text file in the logs folder."
 # @raycast.author My Chiffon Nguyen
-# @raycast.authorURL https://github.com/chiffonng
+# @raycast.authorURL https://raycast.com/chiffonng
 
 # Prerequisites: Raycast (macOS)
 

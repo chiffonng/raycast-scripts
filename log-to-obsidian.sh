@@ -12,7 +12,7 @@
 # Documentation:
 # @raycast.description "Prompt to log what you're working on and append to Obsidian daily note."
 # @raycast.author My Chiffon Nguyen
-# @raycast.authorURL https://github.com/chiffonng
+# @raycast.authorURL https://raycast.com/chiffonng
 
 # Prerequisites:
 # 1. Make sure you have Obsidian & Raycast installed on your Mac.
